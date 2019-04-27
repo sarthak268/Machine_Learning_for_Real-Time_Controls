@@ -1,4 +1,4 @@
-Machine Learning for Real-Time Controls Assignments
+### Machine Learning for Real-Time Controls Assignments
 
 This repository provides basic Simulink Implementations of the following:
 
